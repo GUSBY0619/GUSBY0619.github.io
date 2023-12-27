@@ -121,3 +121,64 @@ p {
 .header-img img {
     width: 600px;
 }
+
+.about {
+    padding: 100px 0;
+    background-color: #efefef;
+}
+
+.about-content {
+    display: flex;
+    position: relative;
+}
+
+.about-img {
+    width: 50%;
+    text-align: center;
+}
+
+.about-img img {
+    width: 350px;
+}
+
+.about-txt {
+    width: 50%;
+}
+
+h2 {
+    font-size: 80px;
+    line-height: 90px;
+    color: #3f3f3f;
+    margin-bottom: 25px;
+}
+
+.about-txt p {
+    color: #3f3f3f;
+}
+
+.btn-2 {
+    display: inline-block;
+    padding: 13px 45px;
+    font-size: 18px;
+    background-color: #7516c2;
+    color: #efefef;
+    border-radius: 25px;
+    border: 0;
+    font-family: 'Nunito', sans-serif;
+    cursor: pointer;
+}
+
+.btn-2:hover {
+    background-color: #ff3700;
+}
+
+.information {
+    padding: 100px 400px 400px 400px;
+    text-align: center;
+    background-color: #fbfbfb;
+}
+
+.information-content {
+    position: relative;
+}
+
